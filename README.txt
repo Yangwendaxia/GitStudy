@@ -9,3 +9,4 @@ gitfetch
 gitfetch merge
 git pull
 git push
+remote
