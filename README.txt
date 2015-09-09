@@ -11,3 +11,4 @@ git pull
 git push
 git push brach
 local
+remote
