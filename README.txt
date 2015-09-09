@@ -7,3 +7,4 @@ git reset Head2
 Modified
 gitfetch
 gitfetch merge
+git pull
