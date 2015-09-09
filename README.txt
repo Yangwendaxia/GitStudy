@@ -8,3 +8,4 @@ Modified
 gitfetch
 gitfetch merge
 git pull
+git push
